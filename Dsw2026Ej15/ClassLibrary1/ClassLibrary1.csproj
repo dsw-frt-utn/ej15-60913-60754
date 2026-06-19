@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Dsw2026Ej15.Data\.vs\Dsw2026Ej15.Data.slnx\v18\DocumentLayout.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Dsw2026Ej15.Data\.vs\Dsw2026Ej15.Data.slnx\config\applicationhost.config" />
+    <None Include="Dsw2026Ej15.Data\.vs\Dsw2026Ej15.Data.slnx\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="Dsw2026Ej15.Data\.vs\Dsw2026Ej15.Data.slnx\FileContentIndex\9f485abc-201a-49a6-a76a-463202f8d369.vsidx" />
+    <None Include="Dsw2026Ej15.Data\.vs\Dsw2026Ej15.Data.slnx\v18\.futdcache.v2" />
+    <None Include="Dsw2026Ej15.Data\.vs\ProjectEvaluation\dsw2026ej15.data.metadata.v10.bin" />
+    <None Include="Dsw2026Ej15.Data\.vs\ProjectEvaluation\dsw2026ej15.data.projects.v10.bin" />
+    <None Include="Dsw2026Ej15.Data\.vs\ProjectEvaluation\dsw2026ej15.data.strings.v10.bin" />
+    <None Include="Dsw2026Ej15.Data\Dsw2026Ej15.Data.csproj" />
+    <None Include="Dsw2026Ej15.Data\Dsw2026Ej15.Data.slnx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dsw2026Ej15.Data\bin\Debug\net10.0\" />
+    <Folder Include="Dsw2026Ej15.Data\obj\Debug\net10.0\refint\" />
+    <Folder Include="Dsw2026Ej15.Data\obj\Debug\net10.0\ref\" />
+  </ItemGroup>
+
+</Project>
