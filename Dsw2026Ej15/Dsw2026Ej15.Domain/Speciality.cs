@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Dsw2026Ej15.Domain
+namespace Dsw2026Ej15.Domain.Entities
 {
-    internal class Speciality
+    public class Speciality : BaseEntity
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
     }
 }
+
+
