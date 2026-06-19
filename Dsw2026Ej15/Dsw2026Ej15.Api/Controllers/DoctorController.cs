@@ -1,8 +1,8 @@
-﻿
-using Dsw2026Ej15.Data.Per;
-using Dsw2026Ej15.Domain;
+﻿using Dsw2026Ej15.Domain;
+using Dsw2026Ej15.Data.Persistence;
+using Dsw2026Ej15.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
-using System.ComponentModel.z;
+using System.ComponentModel;
 
 
 namespace Dsw2026Ej15.Api.Controllers;

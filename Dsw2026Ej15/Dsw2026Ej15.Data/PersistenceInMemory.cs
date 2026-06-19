@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json;
 
-namespace Dsw2026Ej15.Data.Persistence
+namespace Dsw2026Ej15.Data.Persistance 
 {
     using Dsw2026Ej15.Domain;
     using System.Numerics;
